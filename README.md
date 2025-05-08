@@ -22,9 +22,7 @@ I’m a data analyst passionate about turning raw data into actionable insights.
 1. **Electricity Consumption Forecasting**  
    Time‑series analysis with SARIMA to predict half‑hourly electricity demand.  
 2. **Customer Behavior Analysis**  
-   Classification model to predict order cancellations; powered interactive Power BI dashboard.  
-3. **Indian Startup Funding Regression**  
-   Predict funding amounts based on city, industry, and investment type.  
+   Classification model to predict order cancellations; powered interactive Power BI dashboard.   
 
 *(See more in my [GitHub repos](#) and detailed project write‑ups in the “Projects” section below.)*
 
