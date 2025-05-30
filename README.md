@@ -30,7 +30,7 @@ I’m a data analyst passionate about turning raw data into actionable insights.
 
 - **Email:** dhwanizala25@gmail.com 
 - **LinkedIn:** www.linkedin.com/in/dhwani-zala-276a2a213
-- **Portfolio:** https://stable-jada-z49rj26g.dcms.site/
+- **Portfolio:** (https://dhwanizala-portfolio.dcms.site/)
 
 > “Data is the new oil.”  
 > — A guiding principle behind my analytical journey.
